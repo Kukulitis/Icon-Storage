@@ -3,28 +3,29 @@
 Searchable icon library for the W2W Academy e-learning materials: 232 icons from the W2W Academy template, converted to SVG.
 
 ## Use it
-Open `index.html` in Chrome or Edge.
+Live site: https://kukulitis.github.io/Icon-Storage/ (once GitHub Pages is switched on), or open `index.html` in Chrome or Edge.
 
 - **Click** an icon - copies it as a picture (paste into Storyline, PowerPoint, Word)
 - **Drag** an icon onto a PowerPoint slide - inserts an editable vector graphic
 - **Hover** - copy SVG code or download the file
-- **Colour** - pick a colour from the wheel and save it to the quick bar
+- **Search** - press `/` to jump to the search box
+- **Colour** - pick a colour from the wheel and save it to the quick bar (saved per browser)
 
 ## Contents
 | Category | Icons |
 |---|---|
-| General & Symbols | 22 |
-| People & Teams | 23 |
-| Gangways & Cranes | 19 |
-| Offshore & Vessels | 9 |
-| Tools & Equipment | 27 |
+| General & symbols | 22 |
+| People & teams | 23 |
+| Gangways & cranes | 19 |
+| Offshore & vessels | 9 |
+| Tools & equipment | 27 |
 | Documents | 14 |
-| Environment & Weather | 24 |
+| Environment & weather | 24 |
 | Safety & PPE | 40 |
-| Hazards & Alerts | 8 |
-| Operations & Time | 18 |
+| Hazards & alerts | 8 |
+| Operations & time | 18 |
 | Digital & IT | 11 |
-| Ampelmann Brand | 4 |
-| Ampelmann Fleet | 13 |
+| Ampelmann brand | 4 |
+| Ampelmann fleet | 13 |
 
 All SVG files are also in the `svg/` folder, grouped by category. The Ampelmann Fleet entries are photos wrapped in SVG.
