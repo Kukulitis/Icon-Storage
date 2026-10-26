@@ -1,32 +1,30 @@
 # W2W Academy Icon Library
 
-Searchable icon library for the W2W Academy e-learning materials: 236 icons and logos from the W2W Academy template, converted to SVG.
+Searchable library of 304 icons, logos and fleet photos for W2W Academy e-learning, converted to SVG.
+
+**Live site:** https://kukulitis.github.io/Icon-Storage/
 
 ## Use it
-Live site: https://kukulitis.github.io/Icon-Storage/ (once GitHub Pages is switched on), or open `index.html` in Chrome or Edge.
-
 - **Click** an icon - copies it as a picture (paste into Storyline, PowerPoint, Word)
 - **Download** (hover, then ↓) - saves the SVG; drag the file onto a PowerPoint slide for an editable graphic
-- **Hover** - copy SVG code or download the file
-- **Search** - press `/` to jump to the search box
+- **Hover** - copy the SVG code
+- **Search** - press ; old category names like "PPE" or "documents" also work
 - **Colour** - pick a colour from the wheel and save it to the quick bar (saved per browser)
 
-## Contents
-| Category | Icons |
-|---|---|
-| General & symbols | 22 |
-| People & teams | 23 |
-| Gangways & cranes | 19 |
-| Offshore & vessels | 9 |
-| Tools & equipment | 27 |
-| Documents | 14 |
-| Environment & weather | 24 |
-| Safety & PPE | 40 |
-| Hazards & alerts | 8 |
-| Operations & time | 18 |
-| Digital & IT | 11 |
-| W2W Academy brand | 4 |
-| Ampelmann brand | 4 |
-| Ampelmann fleet | 13 |
+Works best in Chrome or Edge.
 
-All SVG files are also in the `svg/` folder, grouped by category. The Ampelmann Fleet entries are photos wrapped in SVG.
+## Categories
+| Category | Items |
+|---|---|
+| Interface & digital | 61 |
+| Learning & people | 56 |
+| Safety & hazards | 56 |
+| Offshore & equipment | 65 |
+| Weather & operations | 45 |
+| Brand & fleet | 21 |
+
+All SVG files are in the  folder, one subfolder per category. Fleet entries are photos wrapped in SVG.
+
+## Sources
+Icons and fleet photos come from the W2W Academy template; W2W Academy logos from the official logo files.
+Some navigation, learning and safety icons are from Phosphor Icons (MIT) - see [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
